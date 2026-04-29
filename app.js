@@ -3,7 +3,7 @@
 // Substitua AIzaSyCGWbtv2jTkP3pqu5wXhtC8bWuX-0y4Ph4 pela sua chave da API do Google Gemini
 // ============================================================
 const GEMINI_API_KEY = 'AIzaSyCGWbtv2jTkP3pqu5wXhtC8bWuX-0y4Ph4';
-const GEMINI_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${GEMINI_API_KEY}`;
+const GEMINI_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${GEMINI_API_KEY}`;
 
 // ============================================================
 // STORAGE
